@@ -1,0 +1,32 @@
+/* Skills Styles */
+.skill-container {
+    margin-bottom: 70px;
+}
+
+.skill {
+    margin-bottom: 10px;
+}
+
+.skill p {
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.container-bar {
+	width: 100%;
+	border-radius: 5px;
+	background-color: #ddd;
+}
+
+.skill-bar {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+
+/* Skill Bar Colors */
+.java, .html, .css, .js, .ccpp  { background-color: #2196F3; }
+.malay, .english { background-color: #990000; }
+.photo-editing, .video-editing { background-color: #AA336A; }
